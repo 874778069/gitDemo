@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/demo.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+              <caret column="56" selection-start-column="56" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -94,7 +94,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="911000" />
+=======
+    <option name="totallyTimeSpent" value="823000" />
+>>>>>>> 00c0536... 'v1v1v1v1'
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -196,7 +200,11 @@
     <entry file="file://$PROJECT_DIR$/demo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+<<<<<<< HEAD
           <caret column="1" selection-start-column="1" selection-end-column="1" />
+=======
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+>>>>>>> 00c0536... 'v1v1v1v1'
         </state>
       </provider>
     </entry>
